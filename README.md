@@ -9,4 +9,4 @@ npm install @wordpress/scripts
 once installed, use: npm run start or npm run preview (to change components while site is running
 
 
-link: https://www.youtube.com/watch?v=NKqogVcqDHA
+
